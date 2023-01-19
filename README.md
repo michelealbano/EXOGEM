@@ -1,6 +1,6 @@
 # EXOGEM
 
-Imagine you have your current folder to generate the three applications (client, server, exogem server) in. All the current material of EXOGEM is in ../current
+Imagine you have your current folder to generate the three applications (client, server, exogem server) in. All the current distribution of EXOGEM is in ../current
 
 To generate the exogem server, you have to do:
 ```
